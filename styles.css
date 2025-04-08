@@ -1,0 +1,25 @@
+body {
+    background-color:lemonchiffon;
+}
+
+h1 {
+    margin: 0 0  0 1em;
+}
+
+#root {
+    width: 100%;
+}
+
+.profile {
+    display:flex;
+    flex-direction: row;
+}
+
+.profile-card {
+    background-color: white;
+    width: 25%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px lightseagreen;
+    margin: 2em;
+    padding: 2em;
+}
