@@ -16,7 +16,9 @@ function Projects() {
             </ul>
         <h3>BoardMasters</h3>
             <ul>
-                <li></li>
+                <li>Leadership</li>
+                <li>Collaboration</li>
+                <li>Presenting Technical Information</li>
             </ul>
       </div>
     )
